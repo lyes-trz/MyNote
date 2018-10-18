@@ -18,8 +18,12 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
+### Logo
 
-### Screenshots
+![mynote-logo](https://user-images.githubusercontent.com/44152758/47157923-55e03900-d2e2-11e8-851b-cef2d687f76d.png)
+
+#### Screenshots
+
 ![2018-10-18 1](https://user-images.githubusercontent.com/44152758/47157554-85427600-d2e1-11e8-8f3e-553ee0c23b7e.png)
 
 ![2018-10-18 2](https://user-images.githubusercontent.com/44152758/47157717-deaaa500-d2e1-11e8-9d36-479f3fee1682.png)
